@@ -11,7 +11,12 @@ The application integrates gene information from NCBI, DNA sequence analysis, pr
 * Search genes by gene symbol and organism.
 * Retrieve gene identifiers and available gene information from NCBI.
 * View gene descriptions and related metadata.
+---
+## 🌐 Live Demo
 
+🚀 **[Open Bioinformatics DNA Sequence Analyzer App](https://bioinformatics-research-explorer-bu8wphwh8mufr7p223wryk.streamlit.app/)**
+
+---
 ### 🧪 DNA Sequence Analysis
 
 * Retrieve linked nucleotide and mRNA sequences.
