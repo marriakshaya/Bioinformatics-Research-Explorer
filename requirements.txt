@@ -3,3 +3,4 @@ biopython
 requests
 pandas
 matplotlib
+reportlab
