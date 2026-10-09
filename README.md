@@ -65,7 +65,7 @@ The application integrates gene information from NCBI, DNA sequence analysis, pr
 ## 📁 Project Structure
 
 ```text
-GENELENS/
+Bioinformatics Research Explorer/
 │
 ├── app.py
 ├── requirements.txt
