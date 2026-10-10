@@ -11,7 +11,7 @@ from utils.report_generator import create_gene_report
 
 
 st.set_page_config(
-    page_title="Bioinformatics Research Explorer",
+    page_title="Bioinformatics Gene Explorer",
     page_icon="🧬",
     layout="wide",
 )
@@ -180,7 +180,7 @@ st.sidebar.markdown(
     """
     <div style="padding: 0.4rem 0 0.7rem;">
       <div style="font-size: 2rem;">🧬</div>
-      <div style="font-size: 1.35rem; font-weight: 850; color: #9f1239;">Bioinformatics Research Explorer</div>
+      <div style="font-size: 1.35rem; font-weight: 850; color: #9f1239;">Bioinformatics Gene Explorer</div>
       <div style="font-size: 0.88rem; color: #925064;">Your gene research workspace</div>
     </div>
     """,
@@ -202,9 +202,9 @@ st.sidebar.caption("Explore genes. Understand sequences. Discover research.")
 
 st.markdown(
     """
-    <div class="Bioinformatics Research Explorer-hero">
-      <div class="Bioinformatics Research Explorer-eyebrow">Bioinformatics research workspace</div>
-      <h1>🧬 Bioinformatics Research Explorer</h1>
+    <div class="Bioinformatics Gene Explorer-hero">
+      <div class="Bioinformatics Gene Explorer-eyebrow">Bioinformatics research workspace</div>
+      <h1>🧬 Bioinformatics Gene Explorer</h1>
       <p>Explore genes, analyze DNA sequences, discover proteins, and browse biomedical literature — all in one place.</p>
     </div>
     """,
@@ -583,7 +583,7 @@ with summary_tab:
             st.download_button(
                 "📄 Download Research Report (PDF)",
                 data=pdf_bytes,
-                file_name=f"BioinformaticsResearchExplorer_report{gene_name}.pdf",
+                file_name=f"BioinformaticsGeneExplorer_report{gene_name}.pdf",
                 mime="application/pdf",
                 key="download_research_pdf",
             )
