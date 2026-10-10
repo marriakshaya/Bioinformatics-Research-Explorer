@@ -1,6 +1,6 @@
-# 🧬 Bioinformatics Research Explorer
+# 🧬 Bioinformatics Gene Explorer
 
-**Bioinformatics Research Explorer** is an interactive web application developed using Python and Streamlit to simplify the exploration of genetic information and biological research data.
+**Bioinformatics Gene Explorer** is an interactive web application developed using Python and Streamlit to simplify the exploration of genetic information and biological research data.
 
 The application integrates gene information from NCBI, DNA sequence analysis, protein data retrieval, and PubMed literature search within a single platform. It also provides sequence downloads and PDF research report generation through a user-friendly interface featuring a modern pink-and-rose color theme.
 
@@ -14,7 +14,7 @@ The application integrates gene information from NCBI, DNA sequence analysis, pr
 ---
 ## 🌐 Live Demo
 
-🚀 **[Open Bioinformatics Research Explorer](https://bioinformatics-research-explorer-bu8wphwh8mufr7p223wryk.streamlit.app/)**
+🚀 **[Open Bioinformatics Gene Explorer](https://bioinformatics-research-explorer-bu8wphwh8mufr7p223wryk.streamlit.app/)**
 
 ---
 ### 🧪 DNA Sequence Analysis
