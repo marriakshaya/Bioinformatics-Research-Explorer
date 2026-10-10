@@ -14,7 +14,7 @@ The application integrates gene information from NCBI, DNA sequence analysis, pr
 ---
 ## 🌐 Live Demo
 
-🚀 **[Open Bioinformatics Gene Explorer](https://bioinformatics-research-explorer-bu8wphwh8mufr7p223wryk.streamlit.app/)**
+🚀 **[Open Bioinformatics Gene Explorer](https://bioinformatics-gene-explorer-bu8wphwh8mufr7p223wryk.streamlit.app/)**
 
 ---
 ### 🧪 DNA Sequence Analysis
